@@ -1,0 +1,7 @@
+yfinance
+pandas
+numpy
+matplotlib
+scikit-learn
+If you want to check exact versions used in your environment, run:
+pip freeze > requirements.txt
